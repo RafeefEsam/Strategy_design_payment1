@@ -52,6 +52,6 @@ public class Customer {
         } else {
             System.out.println("payment method NOT valid");
         }
-        int x = 0;
+        
     }
 }
